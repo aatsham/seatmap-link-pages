@@ -1,7 +1,7 @@
 {
   "name": "Seatmap Link",
   "short_name": "Seatmap",
-  "description": "Open an American Airlines seat map from your flight details.",
+  "description": "Open an AA seat map from your flight details.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
